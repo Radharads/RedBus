@@ -1,0 +1,123 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),21:00,10h 30m,07:30,4.5,INR 750,15 Seats available
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels,,21:00,11h 30m,08:30,4.4,,
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,,,,,,,,
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,,,,,,,,
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,,,,,,,,
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater 2+2,18:00,14h 00m,08:00,4.0,INR 600,31 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),21:32,08h 50m,06:22,4.7,INR 650,20 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,10h 40m,09:10,4.6,INR 650,23 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,,,,,,,,
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,,,,,,,,
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Kadamba Transport Corporation Limited (KTCL) - 97386,Volvo AC Seater Pushback 2+2,17:05,12h 55m,06:00,3.7,INR 1200,11 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),20:00,17h 10m,13:10,4.5,1269,10 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),17:00,16h 10m,09:10,4.4,INR 1440,9 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,,,,,,,,
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,,,,,,,,
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Kadamba Transport Corporation Limited (KTCL) - 116186,Volvo AC Seater 2+2,18:30,13h 30m,08:00,3.9,INR 800,29 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),20:35,16h 50m,13:25,4.6,508,13 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),19:40,15h 05m,10:45,4.5,528,20 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,,,,,,,,
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,,,,,,,,
+Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:15,12h 45m,10:00,3.2,INR 735,32 Seats available
+Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,SR Tours & Travels,A/C Sleeper (2+1),19:45,09h 45m,05:30,2.8,1170,30 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Kadamba Transport Corporation Limited (KTCL) - 141293,Volvo AC Seater 2+2,19:45,12h 30m,08:15,4.0,INR 700,24 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sunrise Tours and Travels,A/C Sleeper (2+1),21:20,12h 55m,10:15,4.5,INR 1299,16 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:00,13h 15m,10:15,4.4,INR 1299,16 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,,,,,,,,
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,,,,,,,,
+Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,12h 00m,07:00,3.4,INR 735,29 Seats available
+Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,SR Tours & Travels,A/C Sleeper (2+1),19:00,10h 20m,05:20,3.6,1080,23 Seats available
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,NON A/C Sleeper (2+1),01:00,05h 00m,06:00,1.5,INR 799,20 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Kadamba Transport Corporation Limited (KTCL) - 5633,Volvo AC Seater 2+2,18:30,14h 00m,08:30,3.9,INR 800,15 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),18:00,13h 15m,07:15,4.6,INR 1199,12 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,AC Sleeper (2+1),17:00,13h 40m,06:40,4.6,INR 1045,10 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,,,,,,,,
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,,,,,,,,
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,20:00,14h 00m,10:00,3.4,INR 850,32 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),23:15,08h 45m,08:00,3.0,INR 1250,21 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,S R Travels,A/C Seater/Sleeper (2+1),18:45,12h 15m,07:00,2.6,INR 700,35 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,,,,,,,,
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,,,,,,,,
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater 2+2,18:00,08h 30m,02:30,4.2,INR 450,31 Seats available
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,07h 30m,02:30,3.7,INR 420,30 Seats available
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Neeta tours and travels,AC Sleeper (2+1),12:30,06h 30m,19:00,3.4,INR 550,20 Seats available
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,UNIQUE TOURS AND TRAVELS,A/C Seater (2+2),14:00,08h 00m,22:00,5.0,INR 490,40 Seats available
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,,,,,,,,
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,,,,,,,,
+Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,,,,,,,,
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,13h 30m,08:30,2.9,INR 850,29 Seats available
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,09h 30m,04:30,3.7,INR 1450,19 Seats available
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,S R Travels,A/C Seater/Sleeper (2+1),20:30,11h 00m,07:30,2.2,INR 600,39 Seats available
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,,,,,,,,
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,,,,,,,,
+Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,11h 05m,06:05,3.6,INR 675,29 Seats available
+Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,07h 00m,02:00,3.1,INR 1450,26 Seats available
+Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,SR Tours & Travels,A/C Sleeper (2+1),19:00,09h 50m,04:50,2.8,1170,23 Seats available
+Sangola (Solapur) to Goa,https://www.redbus.in/bus-tickets/sangola-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:45,12h 15m,10:00,2.8,INR 675,32 Seats available
+Sangola (Solapur) to Goa,https://www.redbus.in/bus-tickets/sangola-to-goa,SR Tours & Travels,A/C Sleeper (2+1),20:30,09h 00m,05:30,2.8,1170,30 Seats available
+Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,13:30,01h 45m,15:15,3.8,INR 200,40 Seats available
+Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,01h 45m,17:15,3.9,INR 200,41 Seats available
+Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater (2+2),18:30,01h 30m,20:00,4.9,INR 200,40 Seats available
+Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,09h 00m,04:00,3.2,INR 490,29 Seats available
+Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,Vaibhav Travels,A/C Sleeper (2+1),20:00,09h 40m,05:40,3.6,INR 400,14 Seats available
+Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,SR Tours & Travels,A/C Sleeper (2+1),19:00,09h 00m,04:00,2.8,720,23 Seats available
+Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,,,,,,,,
+Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli,,,,,,,,
+Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159065,A/C Seater (2+3),11:45,01h 15m,13:00,2.6,INR 200,45 Seats available
+Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 158988,A/C Seater (2+3),11:30,01h 25m,12:55,3.3,INR 200,45 Seats available
+Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 159021,A/C Seater (2+3),12:00,01h 10m,13:10,4.3,INR 200,48 Seats available
+Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 160438,A/C Seater (2+3),13:30,01h 10m,14:40,4.1,INR 200,47 Seats available
+Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa,,,,,,,,
+Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,09h 30m,04:30,2.5,INR 505,29 Seats available
+Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Vaibhav Travels,A/C Sleeper (2+1),20:00,09h 42m,05:42,3.7,INR 400,15 Seats available
+Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,06h 30m,01:30,2.6,INR 1450,20 Seats available
+Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj,,,,,,,,
+Goa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/goa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater (2+2),13:45,01h 45m,15:30,3.8,INR 200,41 Seats available
+Goa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/goa-airport-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),16:00,01h 30m,17:30,4.5,INR 200,42 Seats available
+Shivamogga to Goa,https://www.redbus.in/bus-tickets/shimoga-to-goa,Kadamba Transport Corporation Limited (KTCL) - 132897,Non AC Seater (2+2),23:00,09h 00m,08:00,2.6,INR 450,38 Seats available
+Shivamogga to Goa,https://www.redbus.in/bus-tickets/shimoga-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),23:45,08h 15m,08:00,3.8,INR 800,31 Seats available
+Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159647,A/C Seater (2+3),10:30,01h 00m,11:30,4.9,INR 200,46 Seats available
+Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159019,A/C Seater (2+3),10:44,00h 31m,11:15,3.7,INR 150,47 Seats available
+Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159065,A/C Seater (2+3),12:30,00h 30m,13:00,3.0,INR 150,45 Seats available
+Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,,,,,,,,
+Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport,,,,,,,,
+Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater 2+2,18:00,09h 00m,03:00,3.7,INR 550,31 Seats available
+Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,07h 40m,06:10,4.8,INR 650,23 Seats available
+Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),21:40,07h 45m,05:25,4.8,INR 624,29 Seats available
+Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,,,,,,,,
+Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara,,,,,,,,
+Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 159664,A/C Seater (2+3),10:30,02h 00m,12:30,4.9,INR 400,47 Seats available
+Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 159664,A/C Seater (2+3),10:30,00h 30m,11:00,3.7,INR 150,47 Seats available
+Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 159657,A/C Seater (2+3),11:15,00h 30m,11:45,3.7,INR 150,47 Seats available
+Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,,,,,,,,
+Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa,,,,,,,,
+Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,PSR Travels Goa,A/C Sleeper (2+1),18:00,15h 00m,09:00,3.8,INR 1199,6 Seats available
+Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Humsafar Travels,A/C Sleeper (2+1),14:30,19h 00m,09:30,3.4,INR 1250,22 Seats available
+Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,,,,,,,,
+Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,,,,,,,,
+Goa to Shivamogga,https://www.redbus.in/bus-tickets/goa-to-shimoga,Kadamba Transport Corporation Limited (KTCL) - 8355,Non AC Seater 2+2,15:00,10h 03m,01:03,1.5,INR 450,38 Seats available
+Goa to Shivamogga,https://www.redbus.in/bus-tickets/goa-to-shimoga,Sea Bird Tourist,NON A/C Sleeper (2+1),17:30,09h 00m,02:30,4.5,INR 750,27 Seats available
+Goa to Shirdi,https://www.redbus.in/bus-tickets/goa-to-shirdi,PSR Travels Goa,A/C Sleeper (2+1),19:15,14h 45m,10:00,3.8,INR 1199,20 Seats available
+Goa to Shirdi,https://www.redbus.in/bus-tickets/goa-to-shirdi,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,16h 00m,11:00,1.6,INR 1450,19 Seats available
+Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99716,AC Seater (2+2),10:31,01h 14m,11:45,3.7,INR 150,41 Seats available
+Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,14:01,01h 14m,15:15,3.7,INR 150,40 Seats available
+Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),16:01,01h 14m,17:15,3.7,INR 150,41 Seats available
+Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159019,A/C Seater (2+3),10:44,00h 31m,11:15,3.7,INR 150,47 Seats available
+Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159647,A/C Seater (2+3),11:00,00h 30m,11:30,3.7,INR 150,46 Seats available
+Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 159065,A/C Seater (2+3),12:30,00h 30m,13:00,3.0,INR 150,45 Seats available
+Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,,,,,,,,
+Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport,,,,,,,,
+Goa Airport to Goa,https://www.redbus.in/bus-tickets/goa-airport-to-goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater (2+2),13:45,01h 01m,14:46,3.7,INR 150,41 Seats available
+Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 159664,A/C Seater (2+3),10:30,00h 30m,11:00,3.7,INR 150,47 Seats available
+Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 159657,A/C Seater (2+3),11:15,00h 30m,11:45,3.7,INR 150,47 Seats available
+Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,Kadamba Transport Corporation Limited (KTCL) - 158988,A/C Seater (2+3),11:30,00h 30m,12:00,3.7,INR 150,45 Seats available
+Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,,,,,,,,
+Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa,,,,,,,,
+Panaji to Mopa Airport,https://www.redbus.in/bus-tickets/panaji-to-mopa-airport,Kadamba Transport Corporation Limited (KTCL) - 158948,A/C Seater (2+3),13:30,01h 00m,14:30,3.7,INR 200,47 Seats available
+Calangute (goa) to Goa,https://www.redbus.in/bus-tickets/calangute-goa-to-goa,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,13:30,00h 31m,14:01,3.7,INR 100,40 Seats available
+Calangute (goa) to Goa,https://www.redbus.in/bus-tickets/calangute-goa-to-goa,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,00h 31m,16:01,3.7,INR 100,41 Seats available
+Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,13:30,00h 30m,14:00,3.7,INR 100,40 Seats available
+Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,00h 30m,16:00,3.7,INR 100,41 Seats available
+Goa Airport to Panaji,https://www.redbus.in/bus-tickets/goa-airport-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater (2+2),13:45,01h 00m,14:45,4.4,INR 150,41 Seats available
+Goa Airport to Panaji,https://www.redbus.in/bus-tickets/goa-airport-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),16:00,01h 00m,17:00,4.4,INR 150,42 Seats available
